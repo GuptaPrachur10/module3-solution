@@ -1,0 +1,62 @@
+body
+{
+	font-family: 'Comic Sans MS';
+}
+#header-nav
+{
+	background-color: gray;
+	border-radius: 0;
+	border: 2px solid black;
+}
+#header-nav div
+{
+	margin: 0;
+	padding-bottom: 10px;
+}
+#design
+{
+	font-size: 1.25em;
+	text-align: center;
+	background-color: white;
+	border: 1px solid black;
+	color: black;
+}
+#title
+{
+	font-size: 1.75em;
+}
+#sec
+{
+	background-color: gray;
+	color: black;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+#Ghee
+{
+	color: black;
+	text-align: center;
+	font-size: 1.5em;
+}
+#text
+{
+	font-size: 1.25em;
+}
+.navbar-brand h1
+{
+	color: black;
+	font-size: 1.5em;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+button.navbar-toggle, .icon-bar {
+  border: 1px solid black;
+}
+button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
